@@ -1,0 +1,26 @@
+.containerGrid {
+  max-width: 100%;
+  width: 1240px;
+  margin: 0 auto;
+}
+
+@media (max-width: 1240px) {
+  .containerGrid {
+    width: 896px;
+  }
+}
+@media (max-width: 1024px) {
+  .containerGrid {
+    width: 700px;
+  }
+}
+@media (max-width: 1024px) {
+  .containerGrid {
+    width: 700px;
+  }
+}
+@media (max-width: 646px) {
+  .containerGrid {
+    width: 361px;
+  }
+}
